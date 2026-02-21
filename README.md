@@ -24,6 +24,16 @@ pip install -r requirements.txt
 ```bash
 python src/main.py
 ```
+## Local Test Data
+
+This project includes a local HTML file used for development and testing.
+
+- `data/sample_business_directory.html`
+- Purpose: simulate a real business directory website
+- Used to test scraping logic without hitting real websites
+- Safe for offline development and unit testing
+
+The structure is intentionally simple and consistent to focus on parsing logic.
 
 ## Contributing
 
