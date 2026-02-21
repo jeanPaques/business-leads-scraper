@@ -1,12 +1,16 @@
 # Business Leads Scraper
 
-A Python scraper designed to collect professional business leads from websites efficiently and export them in a structured format.
+A beginner-friendly Python web scraping project designed to extract business-related data
+(emails, websites, phone numbers) from HTML pages and export them to CSV or JSON formats.
+
+This project is intended as a learning exercise and portfolio showcase.
 
 ## Features
-- Collect company emails and contact information
-- Configurable scraping options
+
+- Extract emails, websites, or phone numbers from HTML pages
+- Works with a local test HTML file for safe scraping practice
 - Export results to CSV or JSON
-- Modular code structure for easy maintenance and extension
+- Simple and readable codebase for learning purposes
 
 ## Installation
 
